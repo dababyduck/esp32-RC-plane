@@ -4,5 +4,5 @@ I could also switch to RPI 2 model B V1.1 with the RPI camera, but then i would 
 
 
 <img width="1154" height="859" alt="image" src="https://github.com/user-attachments/assets/7eb35404-c071-42d4-bc89-e2387a4def40" />
-Thy poor and basic schematic.
+The schematic is not 100% accurate, nor it is complete nor pretty. just a quick sketch to show the basic design
 
